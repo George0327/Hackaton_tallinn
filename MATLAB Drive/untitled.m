@@ -1,0 +1,1 @@
+license('test', 'Mapping_Toolbox')
